@@ -1,3 +1,3 @@
 # Programs For ComputerCraft
 
-Что бы всё работало надо скачать JSON: "pastebin get 4nRg9CHU json"
+Чтобы всё работало надо скачать модуль "JSON": "pastebin get 4nRg9CHU json"
